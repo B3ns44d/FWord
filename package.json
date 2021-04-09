@@ -1,0 +1,29 @@
+{
+  "name": "fword",
+  "version": "1.0.0",
+  "description": "brainfuck generator tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B3ns44d/brainfuck-generator.git"
+  },
+  "keywords": [
+    "brainfuck",
+    "generator",
+    "npm",
+    "node",
+    "js"
+  ],
+  "author": "B3ns44d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/B3ns44d/brainfuck-generator/issues"
+  },
+  "homepage": "https://github.com/B3ns44d/brainfuck-generator#readme",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
